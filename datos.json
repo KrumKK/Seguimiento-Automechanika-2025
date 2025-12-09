@@ -1,0 +1,631 @@
+{
+  "reuniones": [
+    {
+      "company": "MACHAGE",
+      "person": "Tommy",
+      "product": "Varios",
+      "time": "16:10",
+      "stand": "Hall 4.1 H79",
+      "comments": "",
+      "id": 1763363438764,
+      "fotos": [
+        "fotos/reunion_machage_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "ALTEZZA",
+      "person": "Gustavo/Gloria",
+      "product": "Varios",
+      "time": "14:45",
+      "stand": "Hall 2.1 A71",
+      "comments": "La próxima semana nos van a mandar cinco grupos hidráulicos para testear.\nSi le damos el OK antes de Navidad, nos las mandarán rápido si no ya sería después del Año Nuevo y en marzo empezar empezarían a fabricarlas y tardarían un mes en hacer la fabricación más el plazo de envío. Habló con Gloria de las cremalleras de husillo Paradise. Le he dicho que las últimas ofertas que hemos tenido han sido por un valor de 100 € la unidad aunque en realidad son más altas las que nos han ofrecido y que a mí un precio interesante sería unos 50 € la unidad y me dice que no le parece imposible de conseguir ha recomendable que Javier Baztán y yo hablemos con ella de pedirle varias referencias y que nos las coticen. me ofrece EPS nuevas y le pregunto que referencia; Honda CV-R, no son interesantes. Me enseña otro documento en el que venden conectores y recambios para DAES.",
+      "id": 1763364468847,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "CHABGHUI GROUP",
+      "person": "Jason Bai",
+      "product": "Varios",
+      "time": "16:18",
+      "stand": "Hall 6.1 F01",
+      "comments": "Tienen la DAE nueva (Ford pickup). También te llenen distintos componentes como pueden ser. si vienen ángulos de sensor, también tienen cosas de salpicadero clock Spring Fusion switch entre otras referencias y dicen que las.",
+      "id": 1763378341743,
+      "fotos": [
+        "fotos/reunion_chabghui_group_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "LT Drive Shaft",
+      "person": "Cactus?",
+      "product": "Drive Shaft",
+      "time": "18:12",
+      "stand": "Hall 1.1 C24",
+      "comments": "",
+      "id": 1763719943011,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "Bomba Mini",
+      "person": "Sharly",
+      "product": "Bomba Mini",
+      "time": "08:12",
+      "stand": "Hall1.1 A10",
+      "comments": "",
+      "id": 1763896381600,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "CIPE Breaking Systems Technology",
+      "person": "Fiona Lu",
+      "product": "EPB",
+      "time": "11:29",
+      "stand": "Hall 6.1 E02",
+      "comments": "",
+      "id": 1763954957878,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "Taizhou EBS Autoparts",
+      "person": "Stefen Dong",
+      "product": "EBS y pinzas de freno",
+      "time": "11:34",
+      "stand": "Hall 3 E56",
+      "comments": "",
+      "id": 1763955286688,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "UKAT???",
+      "person": "Molly",
+      "product": "No especifica en el email",
+      "time": "12:13",
+      "stand": "Hall 7.1 E76",
+      "comments": "",
+      "id": 1763957620217,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "EBI Bearing",
+      "person": "John Zhao",
+      "product": "Rodamientos",
+      "time": "12:15",
+      "stand": "Hall 1.1 D33",
+      "comments": "",
+      "id": 1763957712020,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "AIERFU",
+      "person": "Dane",
+      "product": "Direcciones",
+      "time": "19:32",
+      "stand": "Hall 6.1 F55",
+      "comments": "Nueva línea de fabricación, han mandado ya dos cremalleras de DAEs.",
+      "id": 1763983993823,
+      "fotos": [
+        "fotos/reunion_aierfu_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "YLCNC",
+      "person": "Kairi Ban",
+      "product": "Conectores",
+      "time": "10:00",
+      "stand": "Hall 4.1 C56",
+      "comments": "Conectores de todo tipo.",
+      "id": 1764122436398,
+      "fotos": [
+        "fotos/reunion_ylcnc_foto2.jpg",
+        "fotos/reunion_ylcnc_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "- Cangzhou Fubang",
+      "person": "-Lucy",
+      "product": "Conectores automóvil",
+      "time": "10:17",
+      "stand": "Hall 4.1 H119",
+      "comments": "",
+      "id": 1764123486251,
+      "fotos": [
+        "fotos/reunion___cangzhou_fubang_foto2.jpg",
+        "fotos/reunion___cangzhou_fubang_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "YANGYU",
+      "person": "P",
+      "product": "EGR Valve",
+      "time": "10:31",
+      "stand": "Hall 4.1 E43",
+      "comments": "Tienen muchas referencias, nos conocen pero no han contactado con nosotros. Dice que nos conocen como marca reconocida en Europea.",
+      "id": 1764124295568,
+      "fotos": [
+        "fotos/reunion_yangyu_foto1.jpg",
+        "fotos/reunion_yangyu_foto2.jpg",
+        "fotos/reunion_yangyu_foto3.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "Matteo Vehicle Parts Factory",
+      "person": "Marco (General Manager)",
+      "product": "Relen",
+      "time": "10:44",
+      "stand": "Hall 4.1 B61",
+      "comments": "Tiene mas reles que la empresa anterior.",
+      "id": 1764125076721,
+      "fotos": [
+        "fotos/reunion_matteo_vehicle_parts_factory_foto1.jpg",
+        "fotos/reunion_matteo_vehicle_parts_factory_foto2.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "KITPAMT",
+      "person": "Anna",
+      "product": "DAES Y COMPONENTES",
+      "time": "11:31",
+      "stand": "Hall 5.1 D111",
+      "comments": "Venden completas, componentes como rodamientos de aguja, rodamientos normales, grandes, carcasas, tapas de conectores, correas y los cables. Tienen posicionadores también pero son diferentes.Hostas tienen sensor piñón para Golf 5. Mirar fotos móvil",
+      "id": 1764127927936,
+      "fotos": [
+        "fotos/reunion_kitpamt_foto1.jpg",
+        "fotos/reunion_kitpamt_foto3.jpg",
+        "fotos/reunion_kitpamt_foto2.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "QUANBANG",
+      "person": "Con Liu",
+      "product": "Direcciones",
+      "time": "12:00",
+      "stand": "Hall 5.1 F99",
+      "comments": "Venden Direcciones hidráulicas, pero lo que destaco es que venden terminales, me va a mandar el catálogo para compartir con Javier Baztán y pedir precio.",
+      "id": 1764129667486,
+      "fotos": [
+        "fotos/reunion_quanbang_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "YUGFROST",
+      "person": "David Gontmakher( Manager)",
+      "product": "Aires acondicionados para camiones",
+      "time": "12:08",
+      "stand": "Hall 5.1 K64",
+      "comments": "Son dos compañías en uno o Rusia y China hacen aires acondicionados para camiones es decir cuando el camionero ha parado a descansar puede tener el aire acondicionado encendido cuando la batería está al menos del 30 %. Se apaga.\nPodrían personalizar los productos con nuestra caja y con nuestro nombre para que se venda bajo la marca Lizarte",
+      "id": 1764130099961,
+      "fotos": [
+        "fotos/reunion_yugfrost_foto2.jpg",
+        "fotos/reunion_yugfrost_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "FOBAUTOPARTS",
+      "person": "Jared Cheb",
+      "product": "Direcciones",
+      "time": "12:42",
+      "stand": "Hall 6.1 F100",
+      "comments": "Dicen que las bombas las compran a Quanxing, pero que las Direcciones las fabrican ellos. También ofrecen transmisiones. Dice que ellos agrupan los pedidos y hacen la revisión antes de que salga el producto y nos pueden mandar fotos del producto es decir, sería una compañía que agrupan el material y y revisa que esté todo en orden. Me comenta que las transmisiones las compras a GSP pero que GSP no puede poner nuestra marca y ellos si. Harían la inspección por nosotros antes de enviar el producto. Pueden conseguir agrupar material y también dice que pueden hacer la revisión antes de que el material haya sido enviado. Me parece interesante plantear como una empresa que no se revise el material antes de ser enviado. nos pueden dar referencias de otras empresas o incluso llevar a visitarlas para verlas.",
+      "id": 1764132222182,
+      "fotos": [
+        "fotos/reunion_fobautoparts_foto1.jpg",
+        "fotos/reunion_fobautoparts_foto3.jpg",
+        "fotos/reunion_fobautoparts_foto2.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "CHANGHI",
+      "person": "Jason Bai",
+      "product": "DAES",
+      "time": "13:39",
+      "stand": "Hall 6.1 F01",
+      "comments": "",
+      "id": 1764135592052,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "WINNER AUTOPARTS",
+      "person": "No se",
+      "product": "EGR",
+      "time": "14:19",
+      "stand": "Hall 2.1 A96",
+      "comments": "Te llenan válvulas EGR depósitos de AdBlue. Pido catálogo en Excel.",
+      "id": 1764137943163,
+      "fotos": [
+        "fotos/reunion_winner_autoparts_foto3.jpg",
+        "fotos/reunion_winner_autoparts_foto1.jpg",
+        "fotos/reunion_winner_autoparts_foto2.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "SEINECA",
+      "person": "Luis Yu",
+      "product": "CV JOINT",
+      "time": "16:24",
+      "stand": "Hall 3 K60",
+      "comments": "Es una empresa que se fundó en el 2010 y ellos fabrican. E-mail. nos van a pasar sus referencias FAA mover de Europa con el OEM código y luego otra persona que está aquí sentada en la mesa me va a mandar un catálogo con sensores para columnas y DAES!",
+      "id": 1764145484162,
+      "fotos": [
+        "fotos/reunion_seineca_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "CHIBOSS",
+      "person": "Levi",
+      "product": "Correas EPS",
+      "time": "09:45",
+      "stand": "Hall 3.1 H123",
+      "comments": "Venden todo tipo de correas como las que necesitamos y también hay unas que son más finas.\nHancy@chiboss.cn que nos va a mandar el PDF el Stand tenía muy buena pinta",
+      "id": 1764207955485,
+      "fotos": [
+        "fotos/reunion_chiboss_foto2.jpg",
+        "fotos/reunion_chiboss_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "ZFYLCD",
+      "person": "Karol y lilei",
+      "product": "Cardans",
+      "time": "10:07",
+      "stand": "Hall 1.1 E01",
+      "comments": "Venden Car dans y te llene buena pinta al menos el estante, el producto que se ve lógicamente habrán llevado el mejor producto posible pero es interesante hablar con ellos me van a mandar el catálogo y comentan que trabajan con con vehículos del parque europeo",
+      "id": 1764209275780,
+      "fotos": [
+        "fotos/reunion_zfylcd_foto2.jpg",
+        "fotos/reunion_zfylcd_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "WUXI BELT",
+      "person": "Hanna",
+      "product": "Correas para DAES",
+      "time": "10:14",
+      "stand": "Hall 1.1",
+      "comments": "",
+      "id": 1764209654681,
+      "fotos": [
+        "fotos/reunion_wuxi_belt_foto1.jpg",
+        "fotos/reunion_wuxi_belt_foto2.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "company": "TENDA TEC",
+      "person": "Jim Lee",
+      "product": "EGR",
+      "time": "10:26",
+      "stand": "Hall 1.1",
+      "comments": "",
+      "id": 1764210396599,
+      "fotos": [
+        "fotos/reunion_tenda_tec_foto2.jpg",
+        "fotos/reunion_tenda_tec_foto1.jpg"
+      ],
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    }
+  ],
+  "adicional": [
+    {
+      "id": "add_1",
+      "empresa": "N.F.YO",
+      "producto": "Ruedas y neumáticos",
+      "notas": "Exclusiva de venta de neumáticos en España. Ruedas de coches, motos, tractores. En España las ruedas de tractores son extremadamente caras.",
+      "oportunidad": "Nuevo negocio - venta de ruedas en Europa",
+      "prioridad": "alta",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_2",
+      "empresa": "Inyectores Diesel",
+      "producto": "Cabezas de inyectores Diesel",
+      "notas": "Va a mandar el catálogo. Producto de nicho muy interesante ya que en España el precio es alto.",
+      "oportunidad": "Producto de nicho con buen margen",
+      "prioridad": "media",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_3",
+      "empresa": "Máquinas equilibrado",
+      "producto": "Máquinas de equilibrado y cambio de ruedas",
+      "notas": "Varias empresas vistas con este producto",
+      "oportunidad": "Nuevo posible negocio - venta de máquinas",
+      "prioridad": "media",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_4",
+      "empresa": "Componentes eléctricos",
+      "producto": "Conectores, cables y componentes eléctricos",
+      "notas": "Conectores como los de Autel. También puntas y herramientas.",
+      "oportunidad": "ESCRIBIRLE AL CHINO con fotos de componentes que necesitamos. Poner a Pablo en copia.",
+      "prioridad": "alta",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "Email con fotos componentes eléctricos necesarios",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_5",
+      "empresa": "Tornillos VW",
+      "producto": "Tornillos calidad 10.9/12.9 y Stier One",
+      "notas": "Fábrica de tornillos específicos para Volkswagen. Alta calidad.",
+      "oportunidad": "Calidad premium específica VW",
+      "prioridad": "media",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_6",
+      "empresa": "Herramientas Premium",
+      "producto": "Puntas, herramientas, pistolas",
+      "notas": "MEJOR STAND DE HERRAMIENTAS visto hasta ahora",
+      "oportunidad": "Proveedor premium de herramientas",
+      "prioridad": "alta",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_7",
+      "empresa": "Direct Sillones - Silvia G",
+      "producto": "Direcciones",
+      "notas": "Mujer que habla perfectamente castellano - gran ventaja para comunicarnos",
+      "oportunidad": "Comunicación fluida en español",
+      "prioridad": "alta",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_8",
+      "empresa": "Correas / EPS",
+      "producto": "Correas y EPS nuevas",
+      "notas": "Empresas dedicadas a fabricación de correas. Pueden desarrollar nuevas. Tienen EPS nuevas pero para mercado USA.",
+      "oportunidad": "Desarrollo de producto y expansión EPS",
+      "prioridad": "media",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_9",
+      "empresa": "YAS - Bruce Lee",
+      "producto": "Direcciones (PROYECTO CLAVE)",
+      "notas": "REUNIÓN IMPORTANTE: No están interesados en proyecto inicial de almacén. PROPONEN: Mandarnos mucho material y ampliar plazo de pago. Lizarte se encarga de vender. Referencias homologadas + no homologadas para mercado europeo. Venderíamos con marca LIZARTE.",
+      "oportunidad": "PROYECTO ESTRATÉGICO - Ampliar catálogo direcciones significativamente",
+      "prioridad": "crítica",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "Informar volumen anual de direcciones vendidas para calcular plazo de pago",
+        "fechaSeguimiento": ""
+      }
+    },
+    {
+      "id": "add_10",
+      "empresa": "Varios - Otros productos",
+      "producto": "Altavoces, ventiladores, rodamientos, guantes",
+      "notas": "Altavoces para coches. Ventiladores pequeños con potencia. Rodamientos varios. Guantes naranja con bolitas.",
+      "oportunidad": "Diversificación catálogo",
+      "prioridad": "baja",
+      "seguimiento": {
+        "responsable": "",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": ""
+      }
+    }
+  ]
+}
