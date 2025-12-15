@@ -1,0 +1,31 @@
+{
+  "reuniones": [
+    {
+      "company": "Test 1",
+      "person": "Test 1",
+      "product": "Test 1",
+      "time": "",
+      "stand": "",
+      "comments": "Prueba Json, texto guardado. Foto eliminada. Seguimiento, Responsable, email, y acciones. \n",
+      "id": 1763363438764,
+      "fotos": [],
+      "seguimiento": {
+        "responsable": "Equipo Calidad",
+        "contactado": false,
+        "respuestaRecibida": false,
+        "proximaAccion": "",
+        "fechaSeguimiento": "",
+        "acciones": [
+          "Pruebas 1",
+          "Pruebas 2",
+          "Pruebas 3"
+        ],
+        "estado": "finalizado",
+        "email": "krum@lizaerte.com"
+      },
+      "departamento": "Lizarte",
+      "prioridad": 3
+    }
+  ],
+  "adicional": []
+}
