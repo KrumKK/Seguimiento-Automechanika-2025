@@ -1,32 +1,37 @@
 {
   "reuniones": [
     {
-      "company": "MACHAGE",
-      "person": "Tommy",
-      "product": "Varios",
-      "time": "16:10",
-      "stand": "Hall 4.1 H79",
-      "comments": "",
+      "company": "Test 1",
+      "person": "Test 1",
+      "product": "Test 1",
+      "time": "",
+      "stand": "",
+      "comments": "Prueba Json, texto guardado. Foto eliminada. Seguimiento, Responsable, email, y acciones. \n",
       "id": 1763363438764,
-      "fotos": [
-        "fotos/reunion_machage_foto1.jpg"
-      ],
+      "fotos": [],
       "seguimiento": {
-        "responsable": "",
+        "responsable": "Equipo Calidad",
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [
+          "Pruebas asd",
+          "Pruebas asd",
+          "Pruebas awsda"
+        ],
+        "estado": "finalizado",
+        "email": "krum@lizaerte,com,"
       },
-      "departamento": "Lizarte"
+      "departamento": "Innovación"
     },
     {
       "company": "ALTEZZA",
       "person": "Gustavo/Gloria",
-      "product": "Varios",
+      "product": "Grupo hidráulico, conectores DAES, Husillos DAES",
       "time": "14:45",
       "stand": "Hall 2.1 A71",
-      "comments": "La próxima semana nos van a mandar cinco grupos hidráulicos para testear.\nSi le damos el OK antes de Navidad, nos las mandarán rápido si no ya sería después del Año Nuevo y en marzo empezar empezarían a fabricarlas y tardarían un mes en hacer la fabricación más el plazo de envío. Habló con Gloria de las cremalleras de husillo Paradise. Le he dicho que las últimas ofertas que hemos tenido han sido por un valor de 100 € la unidad aunque en realidad son más altas las que nos han ofrecido y que a mí un precio interesante sería unos 50 € la unidad y me dice que no le parece imposible de conseguir ha recomendable que Javier Baztán y yo hablemos con ella de pedirle varias referencias y que nos las coticen. me ofrece EPS nuevas y le pregunto que referencia; Honda CV-R, no son interesantes. Me enseña otro documento en el que venden conectores y recambios para DAES.",
+      "comments": "Grupos hidráulicos – Plan de validación\nLa próxima semana recibiremos cinco grupos hidráulicos para someterlos a pruebas de validación. Realizaremos dos tipos de test: ensayo de durabilidad de 1.500 horas en banco de verificación y prueba de resistencia de 3.000 km en vehículo real.\nEl plazo de aprobación es crítico: si damos el OK antes de Navidad, podrán enviarnos las unidades con rapidez. En caso contrario, el envío se retrasaría hasta después de Año Nuevo, con inicio de fabricación en marzo y un plazo de producción de aproximadamente un mes, más el tiempo de transporte marítimo.\n\nReunión con Gloria – Cremalleras de husillo para DAES y componentes(Conectores)\nHablé con Gloria sobre las cremalleras de husillo destinadas a sistemas de dirección asistida eléctrica (DAES). Le comenté que las últimas ofertas que hemos recibido rondan los 100 € por unidad, aunque en realidad algunas cotizaciones han sido superiores. Le trasladé que un precio objetivo interesante para nosotros sería de unos 50 € por unidad. Su respuesta fue positiva: no lo ve imposible de conseguir pero en un tiempo más largo.\nNos recomienda que Javier Baztán y yo mantengamos una reunión con ella para solicitar varias referencias y obtener cotizaciones detalladas.\nAdemás, Gloria nos ofreció columnas EPS nuevas. Al preguntarle por las referencias disponibles, mencionó Honda CR-V, que de momento no resultan interesantes para nuestra línea de producto. También nos mostró documentación sobre conectores y recambios compatibles con sistemas DAES.",
       "id": 1763364468847,
       "fotos": [],
       "seguimiento": {
@@ -34,9 +39,11 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
-      "departamento": "Lizarte"
+      "departamento": "Innovación"
     },
     {
       "company": "CHABGHUI GROUP",
@@ -44,27 +51,27 @@
       "product": "Varios",
       "time": "16:18",
       "stand": "Hall 6.1 F01",
-      "comments": "Tienen la DAE nueva (Ford pickup). También te llenen distintos componentes como pueden ser. si vienen ángulos de sensor, también tienen cosas de salpicadero clock Spring Fusion switch entre otras referencias y dicen que las.",
+      "comments": "También tienen DAE nueva para Ford F-150 pickup, una referencia que podría resultar interesante dado el volumen de este modelo en ciertos mercados.\nAdemás, disponen de distintos componentes sueltos para sistemas de dirección, como sensores de ángulo y clock springs (muelles de reloj o contactores rotatorios del airbag).\nPendiente revisar el email para consultar el catálogo completo y valorar qué referencias pueden encajar con nuestra línea de producto.",
       "id": 1763378341743,
-      "fotos": [
-        "fotos/reunion_chabghui_group_foto1.jpg"
-      ],
+      "fotos": [],
       "seguimiento": {
         "responsable": "",
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
-      "departamento": "Lizarte"
+      "departamento": "Innovación"
     },
     {
       "company": "LT Drive Shaft",
-      "person": "Cactus?",
+      "person": "Cactus",
       "product": "Drive Shaft",
       "time": "18:12",
       "stand": "Hall 1.1 C24",
-      "comments": "",
+      "comments": "Empresa con la que coincidió en Paris",
       "id": 1763719943011,
       "fotos": [],
       "seguimiento": {
@@ -72,17 +79,19 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
     {
-      "company": "Bomba Mini",
-      "person": "Sharly",
-      "product": "Bomba Mini",
+      "company": "Bomba Retrofitting",
+      "person": "Vanessa Li; liwei@zjquanxing.com (Hablar con Leo y Kathy)",
+      "product": "Bomba universal ",
       "time": "08:12",
       "stand": "Hall1.1 A10",
-      "comments": "",
+      "comments": "He visitado a la empresa que fabrica la bomba universal para retrofitting. Me han llevado a las instalaciones de Quanxing y durante el recorrido, Leo me ha revelado información relevante: la empresa Bourge no es fabricante, sino una comercializadora. No han sido sinceros conmigo. El fabricante real de la bomba es Quanxing.\nA partir de ahora, vamos a tratar directamente con Kathy y Leo para desarrollar el proyecto, eliminando intermediarios.\nObjetivo del proyecto:\nRecibir la bomba sin software precargado para que desde Lizarte podamos cargar nuestro propio software y así adaptar la bomba a cualquier aplicación. Además, trabajaremos en el diseño de soportes personalizados para facilitar la instalación en distintos vehículos.",
       "id": 1763896381600,
       "fotos": [],
       "seguimiento": {
@@ -90,17 +99,19 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
-      "departamento": "Lizarte"
+      "departamento": "Innovación"
     },
     {
       "company": "CIPE Breaking Systems Technology",
-      "person": "Fiona Lu",
+      "person": "Fiona Lu; sales02@ckgautoparts.com",
       "product": "EPB",
       "time": "11:29",
       "stand": "Hall 6.1 E02",
-      "comments": "",
+      "comments": "Fabricante chino especializado en componentes de sistemas de freno hidráulico: pinzas, servofrenos y bombas de freno. Suministran a OEMs como Ford y Nissan. Disponen de capacidad de I+D y fabricación avanzada para componentes de freno de disco y tambor, con enfoque en calidad y tecnología. Integran sistemas ABS y controles electrónicos en sus desarrollos.",
       "id": 1763954957878,
       "fotos": [],
       "seguimiento": {
@@ -108,14 +119,16 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
-      "departamento": "Lizarte"
+      "departamento": "Innovación"
     },
     {
-      "company": "Taizhou EBS Autoparts",
-      "person": "Stefen Dong",
-      "product": "EBS y pinzas de freno",
+      "company": "Taizhou EBS Auto Parts Co., Ltd.",
+      "person": "Stefen Dong; ebs@ebsbrake.com",
+      "product": "EPB y pinzas de freno",
       "time": "11:34",
       "stand": "Hall 3 E56",
       "comments": "",
@@ -126,7 +139,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -144,7 +159,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -162,7 +179,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -182,7 +201,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -203,7 +224,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -224,7 +247,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -246,9 +271,11 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
-      "departamento": "Lizarte"
+      "departamento": "Innovación"
     },
     {
       "company": "Matteo Vehicle Parts Factory",
@@ -267,7 +294,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -289,7 +318,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -309,7 +340,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -330,7 +363,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -352,7 +387,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -370,7 +407,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -392,7 +431,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -412,7 +453,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -433,7 +476,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -454,7 +499,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -475,7 +522,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -496,7 +545,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     }
@@ -514,7 +565,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Innovación"
     },
@@ -530,7 +583,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -546,7 +601,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -562,7 +619,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "Email con fotos componentes eléctricos necesarios",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -578,7 +637,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -594,7 +655,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -610,7 +673,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -626,7 +691,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -642,7 +709,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "Informar volumen anual de direcciones vendidas para calcular plazo de pago",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Innovación"
     },
@@ -658,7 +727,9 @@
         "contactado": false,
         "respuestaRecibida": false,
         "proximaAccion": "",
-        "fechaSeguimiento": ""
+        "fechaSeguimiento": "",
+        "acciones": [],
+        "estado": "pendiente"
       },
       "departamento": "Lizarte"
     },
@@ -731,4 +802,3 @@
       "departamento": "Lizarte"
     }
   ]
-}
